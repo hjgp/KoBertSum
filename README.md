@@ -4,7 +4,7 @@
 
 ## 모델 소개
 
-### KoBertSum이란?
+## KoBertSum이란?
 
 KoBERTSUM은 ext 및 abs summarizatoin 분야에서 우수한 성능을 보여주고 있는 [BertSum모델](https://github.com/nlpyang/PreSumm)을 한국어 데이터에 적용할 수 있도록 수정한 한국어 요약 모델입니다.
 
